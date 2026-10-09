@@ -1,3 +1,6 @@
+Штеклин
+
+
 Simple project for study makefiles
 =====================
 
